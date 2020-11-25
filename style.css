@@ -1,0 +1,35 @@
+body{
+    background-color: green;
+    color: white;
+}
+.numbers{
+    text-align: center;
+  margin: auto;
+}
+h1{
+    font-size: 60px;
+}
+.mainHeading{
+    text-align: center ;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.container{
+    margin-top: 55px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin: 1em;    
+    padding: 1em;
+    border-radius: 15px 50px 30px 5px;
+}
+button{
+    width: 6em;
+    height: 2em;
+    margin: 1em;
+    border: 1px solid green;
+    border-radius: 8px;
+}
